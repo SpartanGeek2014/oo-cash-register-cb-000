@@ -11,6 +11,9 @@ class CashRegister
     new = 0
   end
 
-  def
+  def total
+    total = new += 1
+    total
+  end
 
 end
